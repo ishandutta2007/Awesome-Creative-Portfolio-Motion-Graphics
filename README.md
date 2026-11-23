@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Creative-Portfolio-Motion-Graphics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Creative-Portfolio-Motion-Graphics?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Creative-Portfolio-Motion-Graphics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Creative-Portfolio-Motion-Graphics?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Creative-Portfolio-Motion-Graphics/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Creative-Portfolio-Motion-Graphics?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Creative-Portfolio-Motion-Graphics/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square" alt="License: CC0-1.0" /></a>
   <a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-%E2%99%A5-pink?style=flat-square&logo=githubsponsors" alt="Sponsor" /></a>
@@ -71,116 +71,116 @@ The sector displays a **pronounced barbell dynamic that is concentrated at the h
 
 ## 🛠️ Open-Source GitHub Projects (Ranked by Stars)
 
-Every open-source project below is actively used by creative technologists, interactive designers, and motion animators. Star counts are sorted descending, with live social star badges linking directly to each project's stargazers page.
+Every open-source project below is actively used by creative technologists, interactive designers, and motion animators. Stars_Counts are sorted descending, with live social Stars_Badges linking directly to each project's stargazers page.
 
 ### ⭐ Tier 1: 50,000+ Stars
 
-- **[Three.js](https://github.com/mrdoob/three.js)** [![GitHub Stars](https://img.shields.io/github/stars/mrdoob/three.js?style=social&color=white)](https://github.com/mrdoob/three.js/stargazers)  
+- **[Three.js](https://github.com/mrdoob/three.js)** [![GitHub_Stars](https://img.shields.io/github/stars/mrdoob/three.js?style=social&color=white)](https://github.com/mrdoob/three.js/stargazers)  
   🎮 *Industry standard WebGL & WebGPU 3D graphics library.* Powers the majority of high-end interactive award-winning 3D web experiences, digital art installations, and creative developer portfolios.
 
-- **[Remotion](https://github.com/remotion-dev/remotion)** [![GitHub Stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers)  
+- **[Remotion](https://github.com/remotion-dev/remotion)** [![GitHub_Stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers)  
   🎬 *Programmatic video and motion graphics engine in React.* Create studio-grade MP4/WebM motion graphics, automated showreels, kinetic typography, and data-driven animations using React, WebGL, and CSS.
 
-- **[Anime.js](https://github.com/juliangarnier/anime)** [![GitHub Stars](https://img.shields.io/github/stars/juliangarnier/anime?style=social&color=white)](https://github.com/juliangarnier/anime/stargazers)  
+- **[Anime.js](https://github.com/juliangarnier/anime)** [![GitHub_Stars](https://img.shields.io/github/stars/juliangarnier/anime?style=social&color=white)](https://github.com/juliangarnier/anime/stargazers)  
   ⚡ *Ultra-fast and flexible JavaScript animation engine.* Seamlessly controls CSS properties, SVG transforms, morphing paths, DOM attributes, and choreographed visual timelines.
 
-- **[Astro](https://github.com/withastro/astro)** [![GitHub Stars](https://img.shields.io/github/stars/withastro/astro?style=social&color=white)](https://github.com/withastro/astro/stargazers)  
+- **[Astro](https://github.com/withastro/astro)** [![GitHub_Stars](https://img.shields.io/github/stars/withastro/astro?style=social&color=white)](https://github.com/withastro/astro/stargazers)  
   🚀 *High-performance web framework designed for content-focused and creative portfolios.* Features zero-JS-by-default performance, native View Transitions API orchestration, and hundreds of ready-to-deploy portfolio templates.
 
 ---
 
 ### 🌟 Tier 2: 20,000 – 50,000 Stars
 
-- **[PixiJS](https://github.com/pixijs/pixijs)** [![GitHub Stars](https://img.shields.io/github/stars/pixijs/pixijs?style=social&color=white)](https://github.com/pixijs/pixijs/stargazers)  
+- **[PixiJS](https://github.com/pixijs/pixijs)** [![GitHub_Stars](https://img.shields.io/github/stars/pixijs/pixijs?style=social&color=white)](https://github.com/pixijs/pixijs/stargazers)  
   🎨 *The HTML5 Creation Engine.* Fast, flexible 2D WebGL/WebGPU sprite rendering engine ideal for interactive 2D portfolio games, dynamic canvas visuals, and kinetic digital graphics.
 
-- **[Motion](https://github.com/motiondivision/motion)** [![GitHub Stars](https://img.shields.io/github/stars/motiondivision/motion?style=social&color=white)](https://github.com/motiondivision/motion/stargazers)  
+- **[Motion](https://github.com/motiondivision/motion)** [![GitHub_Stars](https://img.shields.io/github/stars/motiondivision/motion?style=social&color=white)](https://github.com/motiondivision/motion/stargazers)  
   ✨ *Production-ready motion library for React and vanilla JavaScript (formerly Framer Motion).* Powers physics-based spring animations, layout transitions, gestures, and scroll-linked UI choreography.
 
-- **[React Three Fiber](https://github.com/pmndrs/react-three-fiber)** [![GitHub Stars](https://img.shields.io/github/stars/pmndrs/react-three-fiber?style=social&color=white)](https://github.com/pmndrs/react-three-fiber/stargazers)  
+- **[React Three Fiber](https://github.com/pmndrs/react-three-fiber)** [![GitHub_Stars](https://img.shields.io/github/stars/pmndrs/react-three-fiber?style=social&color=white)](https://github.com/pmndrs/react-three-fiber/stargazers)  
   🧩 *Declarative, component-driven Three.js renderer for React.* The foundation for modern React-based 3D portfolios, shaders, dynamic lighting, and spatial audio scenes.
 
-- **[Lottie Web](https://github.com/airbnb/lottie-web)** [![GitHub Stars](https://img.shields.io/github/stars/airbnb/lottie-web?style=social&color=white)](https://github.com/airbnb/lottie-web/stargazers)  
+- **[Lottie Web](https://github.com/airbnb/lottie-web)** [![GitHub_Stars](https://img.shields.io/github/stars/airbnb/lottie-web?style=social&color=white)](https://github.com/airbnb/lottie-web/stargazers)  
   📦 *Lightweight vector animation runtime for the web.* Renders complex Adobe After Effects animations exported as JSON in real-time with zero pixelation and tiny payload sizes.
 
-- **[GSAP](https://github.com/greensock/GSAP)** [![GitHub Stars](https://img.shields.io/github/stars/greensock/GSAP?style=social&color=white)](https://github.com/greensock/GSAP/stargazers)  
+- **[GSAP](https://github.com/greensock/GSAP)** [![GitHub_Stars](https://img.shields.io/github/stars/greensock/GSAP?style=social&color=white)](https://github.com/greensock/GSAP/stargazers)  
   🎯 *Ultra-high-performance web animation library.* The gold standard for Awwwards-winning portfolios, powering complex multi-step timelines, SVG manipulation, and ScrollTrigger interactions.
 
-- **[PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)** [![GitHub Stars](https://img.shields.io/github/stars/dimsemenov/PhotoSwipe?style=social&color=white)](https://github.com/dimsemenov/PhotoSwipe/stargazers)  
+- **[PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)** [![GitHub_Stars](https://img.shields.io/github/stars/dimsemenov/PhotoSwipe?style=social&color=white)](https://github.com/dimsemenov/PhotoSwipe/stargazers)  
   🖼️ *JavaScript image and video lightbox with touch gestures.* Hardware-accelerated, responsive media viewer widely deployed across visual artist, photography, and UI design portfolios.
 
-- **[p5.js](https://github.com/processing/p5.js)** [![GitHub Stars](https://img.shields.io/github/stars/processing/p5.js?style=social&color=white)](https://github.com/processing/p5.js/stargazers)  
+- **[p5.js](https://github.com/processing/p5.js)** [![GitHub_Stars](https://img.shields.io/github/stars/processing/p5.js?style=social&color=white)](https://github.com/processing/p5.js/stargazers)  
   🔮 *Creative coding and generative art toolkit.* Makes coding visual, accessible, and intuitive for generative motion art, interactive canvas sketches, and algorithmic portfolios.
 
-- **[Blender](https://github.com/blender/blender)** [![GitHub Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
+- **[Blender](https://github.com/blender/blender)** [![GitHub_Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
   🎞️ *Open-source 3D creation suite.* Comprehensive 3D modeling, rigging, simulation, VFX compositing, Grease Pencil 2D/3D animation, and motion graphics workflow pipeline.
 
-- **[Rough.js](https://github.com/rough-stuff/rough)** [![GitHub Stars](https://img.shields.io/github/stars/rough-stuff/rough?style=social&color=white)](https://github.com/rough-stuff/rough/stargazers)  
+- **[Rough.js](https://github.com/rough-stuff/rough)** [![GitHub_Stars](https://img.shields.io/github/stars/rough-stuff/rough?style=social&color=white)](https://github.com/rough-stuff/rough/stargazers)  
   ✏️ *Hand-drawn, sketchy graphics engine for canvas and SVG.* Renders charming sketchy shapes, kinetic scribbles, and hand-crafted graphic elements for distinctive portfolio branding.
 
-- **[Popmotion](https://github.com/Popmotion/popmotion)** [![GitHub Stars](https://img.shields.io/github/stars/Popmotion/popmotion?style=social&color=white)](https://github.com/Popmotion/popmotion/stargazers)  
+- **[Popmotion](https://github.com/Popmotion/popmotion)** [![GitHub_Stars](https://img.shields.io/github/stars/Popmotion/popmotion?style=social&color=white)](https://github.com/Popmotion/popmotion/stargazers)  
   🎈 *Low-level JavaScript animation library.* Powers physics-driven springs, keyframes, decay, and complex pointer interaction streams.
 
-- **[Motion Canvas](https://github.com/motion-canvas/motion-canvas)** [![GitHub Stars](https://img.shields.io/github/stars/motion-canvas/motion-canvas?style=social&color=white)](https://github.com/motion-canvas/motion-canvas/stargazers)  
+- **[Motion Canvas](https://github.com/motion-canvas/motion-canvas)** [![GitHub_Stars](https://img.shields.io/github/stars/motion-canvas/motion-canvas?style=social&color=white)](https://github.com/motion-canvas/motion-canvas/stargazers)  
   📐 *Procedural 2D vector motion graphics editor and TypeScript library.* Enables programmatic animation synchronization with audio tracks via an interactive visual timeline.
 
 ---
 
 ### ✨ Tier 3: 10,000 – 20,000 Stars
 
-- **[Lenis](https://github.com/darkroomengineering/lenis)** [![GitHub Stars](https://img.shields.io/github/stars/darkroomengineering/lenis?style=social&color=white)](https://github.com/darkroomengineering/lenis/stargazers)  
+- **[Lenis](https://github.com/darkroomengineering/lenis)** [![GitHub_Stars](https://img.shields.io/github/stars/darkroomengineering/lenis?style=social&color=white)](https://github.com/darkroomengineering/lenis/stargazers)  
   🌊 *Smooth-scroll library built for modern luxury and design-forward portfolios.* Provides butter-smooth scroll inertia, parallax effects, and synchronized scroll timelines without breaking native accessibility.
 
-- **[Paper.js](https://github.com/paperjs/paper.js)** [![GitHub Stars](https://img.shields.io/github/stars/paperjs/paper.js?style=social&color=white)](https://github.com/paperjs/paper.js/stargazers)  
+- **[Paper.js](https://github.com/paperjs/paper.js)** [![GitHub_Stars](https://img.shields.io/github/stars/paperjs/paper.js?style=social&color=white)](https://github.com/paperjs/paper.js/stargazers)  
   📜 *The Swiss Army Knife of vector graphics scripting.* Robust canvas-based vector math, bezier path manipulation, and dynamic SVG geometry engine for interactive portfolio art.
 
-- **[Theatre.js](https://github.com/theatre-js/theatre)** [![GitHub Stars](https://img.shields.io/github/stars/theatre-js/theatre?style=social&color=white)](https://github.com/theatre-js/theatre/stargazers)  
+- **[Theatre.js](https://github.com/theatre-js/theatre)** [![GitHub_Stars](https://img.shields.io/github/stars/theatre-js/theatre?style=social&color=white)](https://github.com/theatre-js/theatre/stargazers)  
   🎭 *Visual motion design editor for Three.js, React Three Fiber, and HTML/SVG.* Delivers a studio-grade visual timeline in the browser for fine-tuning 3D scene keyframes, camera movements, and lighting.
 
-- **[Barba.js](https://github.com/barbajs/barba)** [![GitHub Stars](https://img.shields.io/github/stars/barbajs/barba?style=social&color=white)](https://github.com/barbajs/barba/stargazers)  
+- **[Barba.js](https://github.com/barbajs/barba)** [![GitHub_Stars](https://img.shields.io/github/stars/barbajs/barba?style=social&color=white)](https://github.com/barbajs/barba/stargazers)  
   🔄 *Fluid and seamless page transitions library.* Transforms traditional multi-page creative websites into SPA-like experiences with cinematic route transitions.
 
-- **[Tween.js](https://github.com/tweenjs/tween.js)** [![GitHub Stars](https://img.shields.io/github/stars/tweenjs/tween.js?style=social&color=white)](https://github.com/tweenjs/tween.js/stargazers)  
+- **[Tween.js](https://github.com/tweenjs/tween.js)** [![GitHub_Stars](https://img.shields.io/github/stars/tweenjs/tween.js?style=social&color=white)](https://github.com/tweenjs/tween.js/stargazers)  
   ⏳ *Lightweight JavaScript tweening engine.* Simple, battle-tested property interpolation with customized easing curves for Three.js and custom canvas animations.
 
 ---
 
 ### 🚀 Tier 4: Emerging & Focused Tools (< 10,000 Stars)
 
-- **[Locomotive Scroll](https://github.com/locomotivemtl/locomotive-scroll)** [![GitHub Stars](https://img.shields.io/github/stars/locomotivemtl/locomotive-scroll?style=social&color=white)](https://github.com/locomotivemtl/locomotive-scroll/stargazers)  
+- **[Locomotive Scroll](https://github.com/locomotivemtl/locomotive-scroll)** [![GitHub_Stars](https://img.shields.io/github/stars/locomotivemtl/locomotive-scroll?style=social&color=white)](https://github.com/locomotivemtl/locomotive-scroll/stargazers)  
   🚂 *Cinematic scroll-detection and smooth parallax effects library.* Crafted by Montreal agency Locomotive for award-winning agency showreels.
 
-- **[Two.js](https://github.com/jonobr1/two.js)** [![GitHub Stars](https://img.shields.io/github/stars/jonobr1/two.js?style=social&color=white)](https://github.com/jonobr1/two.js/stargazers)  
+- **[Two.js](https://github.com/jonobr1/two.js)** [![GitHub_Stars](https://img.shields.io/github/stars/jonobr1/two.js?style=social&color=white)](https://github.com/jonobr1/two.js/stargazers)  
   ♊ *Renderer-agnostic 2D drawing API.* Supports Canvas, SVG, and WebGL interchangeably for kinetic typography, geometric motion, and vector design layouts.
 
-- **[COBE](https://github.com/shuding/cobe)** [![GitHub Stars](https://img.shields.io/github/stars/shuding/cobe?style=social&color=white)](https://github.com/shuding/cobe/stargazers)  
+- **[COBE](https://github.com/shuding/cobe)** [![GitHub_Stars](https://img.shields.io/github/stars/shuding/cobe?style=social&color=white)](https://github.com/shuding/cobe/stargazers)  
   🌍 *Ultra-lightweight 5kB WebGL interactive globe library.* Beautiful, performant 3D spinning globes for displaying international client locations and travel maps.
 
-- **[Natron](https://github.com/NatronGitHub/Natron)** [![GitHub Stars](https://img.shields.io/github/stars/NatronGitHub/Natron?style=social&color=white)](https://github.com/NatronGitHub/Natron/stargazers)  
+- **[Natron](https://github.com/NatronGitHub/Natron)** [![GitHub_Stars](https://img.shields.io/github/stars/NatronGitHub/Natron?style=social&color=white)](https://github.com/NatronGitHub/Natron/stargazers)  
   ⚡ *Node-based VFX compositing software.* Open-source alternative to Adobe After Effects and Nuke for professional motion graphics rendering and post-production.
 
-- **[Splide](https://github.com/Splidejs/splide)** [![GitHub Stars](https://img.shields.io/github/stars/Splidejs/splide?style=social&color=white)](https://github.com/Splidejs/splide/stargazers)  
+- **[Splide](https://github.com/Splidejs/splide)** [![GitHub_Stars](https://img.shields.io/github/stars/Splidejs/splide?style=social&color=white)](https://github.com/Splidejs/splide/stargazers)  
   🎠 *Lightweight, accessible slider and carousel.* Zero-dependency touch carousel optimized for project showreels and interactive case study decks.
 
-- **[Lychee](https://github.com/LycheeOrg/Lychee)** [![GitHub Stars](https://img.shields.io/github/stars/LycheeOrg/Lychee?style=social&color=white)](https://github.com/LycheeOrg/Lychee/stargazers)  
+- **[Lychee](https://github.com/LycheeOrg/Lychee)** [![GitHub_Stars](https://img.shields.io/github/stars/LycheeOrg/Lychee?style=social&color=white)](https://github.com/LycheeOrg/Lychee/stargazers)  
   📷 *Self-hosted photo-management and gallery platform.* Clean, grid-based aesthetic for photographers, illustrators, and digital artists who want full data sovereignty.
 
-- **[Piwigo](https://github.com/Piwigo/Piwigo)** [![GitHub Stars](https://img.shields.io/github/stars/Piwigo/Piwigo?style=social&color=white)](https://github.com/Piwigo/Piwigo/stargazers)  
+- **[Piwigo](https://github.com/Piwigo/Piwigo)** [![GitHub_Stars](https://img.shields.io/github/stars/Piwigo/Piwigo?style=social&color=white)](https://github.com/Piwigo/Piwigo/stargazers)  
   🗃️ *Mature open-source photo gallery software.* Features deep metadata tagging, album privacy controls, and extensive plugin customization for large visual portfolios.
 
-- **[CCapture.js](https://github.com/spite/ccapture.js)** [![GitHub Stars](https://img.shields.io/github/stars/spite/ccapture.js?style=social&color=white)](https://github.com/spite/ccapture.js/stargazers)  
+- **[CCapture.js](https://github.com/spite/ccapture.js)** [![GitHub_Stars](https://img.shields.io/github/stars/spite/ccapture.js?style=social&color=white)](https://github.com/spite/ccapture.js/stargazers)  
   🎥 *Frame-accurate browser animation recording.* Captures WebGL, Canvas, and WebAudio output at a fixed framerate into WebM, GIF, or PNG image sequences.
 
-- **[gl-react](https://github.com/gre/gl-react)** [![GitHub Stars](https://img.shields.io/github/stars/gre/gl-react?style=social&color=white)](https://github.com/gre/gl-react/stargazers)  
+- **[gl-react](https://github.com/gre/gl-react)** [![GitHub_Stars](https://img.shields.io/github/stars/gre/gl-react?style=social&color=white)](https://github.com/gre/gl-react/stargazers)  
   🌈 *Declarative OpenGL and WebGL shaders for React.* Write custom GLSL shaders as composable React components for liquid post-processing and distortion effects.
 
-- **[Craftzdog Homepage Starter](https://github.com/craftzdog/craftzdog-homepage)** [![GitHub Stars](https://img.shields.io/github/stars/craftzdog/craftzdog-homepage?style=social&color=white)](https://github.com/craftzdog/craftzdog-homepage/stargazers)  
+- **[Craftzdog Homepage Starter](https://github.com/craftzdog/craftzdog-homepage)** [![GitHub_Stars](https://img.shields.io/github/stars/craftzdog/craftzdog-homepage?style=social&color=white)](https://github.com/craftzdog/craftzdog-homepage/stargazers)  
   💻 *Famous developer portfolio boilerplate featuring an interactive 3D voxel model.* Built with Next.js, Three.js, Chakra UI, and Framer Motion.
 
-- **[Rive Web Runtime](https://github.com/rive-app/rive-wasm)** [![GitHub Stars](https://img.shields.io/github/stars/rive-app/rive-wasm?style=social&color=white)](https://github.com/rive-app/rive-wasm/stargazers)  
+- **[Rive Web Runtime](https://github.com/rive-app/rive-wasm)** [![GitHub_Stars](https://img.shields.io/github/stars/rive-app/rive-wasm?style=social&color=white)](https://github.com/rive-app/rive-wasm/stargazers)  
   ⚡ *Real-time interactive vector motion graphics runtime.* State-machine-driven animations running at 120 FPS via WebAssembly for micro-interactions and animated avatars.
 
-- **[Pulse by Regn Creative](https://github.com/regncreative/pulse)** [![GitHub Stars](https://img.shields.io/github/stars/regncreative/pulse?style=social&color=white)](https://github.com/regncreative/pulse/stargazers)  
+- **[Pulse by Regn Creative](https://github.com/regncreative/pulse)** [![GitHub_Stars](https://img.shields.io/github/stars/regncreative/pulse?style=social&color=white)](https://github.com/regncreative/pulse/stargazers)  
   💫 *Modern creative portfolio engine.* Designed for expressive motion transitions, high-framerate media presentation, and fluid interactive typography.
 
 ---
