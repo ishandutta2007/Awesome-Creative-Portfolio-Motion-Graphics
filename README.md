@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -42,67 +44,26 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global website builder and creative showcase software market is estimated at approximately **$3.5B to $5.3B** (scaling past **$13B** when broader CMS, creator economy, and digital asset management ecosystems are included), expanding at a ~10–12% CAGR driven by generative design, WebGL motion, and no-code tools. The sector exhibits a **barbell structure that is concentrated at the head and fragmented at the tail**: mainstream DIY traffic and hosting infrastructure are concentrated among a few multi-billion dollar publicly traded giants and private equity platforms (Adobe, Squarespace, Wix), while creative developer, visual artist, and motion design tooling remains moderately to highly fragmented across specialized boutique platforms, bespoke portfolio engines, and community-driven open-source runtimes catering to distinct aesthetic and interaction needs.
+
+
+
 ## SaaS/Hosted Platforms
 
-
-
-- **[Behance (Adobe)](https://behance.net)**  
-
-  Leading global creative showcase network for graphic designers, motion artists, 3D illustrators, and UI/UX teams to publish rich multimedia case studies.
-
-
-
-- **[Dribbble](https://dribbble.com)**  
-
-  Design community and portfolio platform centered on visual design shots, micro-interactions, motion graphics loops, and creative freelance discovery.
-
-
-
-- **[Cargo (Cargo.site)](https://cargo.site)**  
-
-  Avant-garde website builder favored by contemporary designers, studios, and visual artists for experimental layouts, custom typography, and interactive grids.
-
-
-
-- **[Adobe Portfolio](https://adobe.com)**  
-
-  Hosted portfolio website builder integrated with Adobe Creative Cloud and Behance for rapidly deploying responsive galleries and project pages.
-
-
-
-- **[Wix Studio](https://wix.com)**  
-
-  Advanced visual web creation platform offering scroll-driven animations, custom CSS/JS interactions, responsive breakpoints, and client handoff tools for agencies.
-
-
-
-- **[Squarespace](https://squarespace.com)**  
-
-  All-in-one website building and portfolio hosting platform renowned for editorial templates, high-resolution visual galleries, and built-in e-commerce.
-
-
-
-- **[Carbonmade](https://carbonmade.com)**  
-
-  Visual-first online portfolio builder tailored for illustrators, animators, art directors, and creative directors with drag-and-drop project blocks.
-
-
-
-- **[Format](https://format.com)**  
-
-  Online portfolio platform built specifically for photographers and visual artists featuring client proofing galleries, custom themes, and print stores.
-
-
-
-- **[Fabrik](https://fabrik.io)**  
-
-  Intelligent portfolio platform designed for filmmakers, motion designers, and creative agencies with adaptive media layouts and showreel hosting.
-
-
-
-- **[Portfoliobox](https://portfoliobox.net)**  
-
-  Browser-based portfolio builder enabling creatives to mix and match page-specific layouts, galleries, and custom domains without coding.
+| Platform | Company Scale (Revenue / Valuation) | Pricing (Starting Paid Tier) | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Portfolio](https://adobe.com)** | Parent (Adobe Inc.): **$21.5B+ annual revenue** / **~$146B–$195B market cap** | Included with Adobe Creative Cloud (from **$9.99/mo** Photography Plan) | **No standalone free plan or trial**; bundled with CC plans. Allows publishing up to 5 sites with custom domains and Adobe Fonts, but strictly lacks e-commerce and client proofing. | Hosted portfolio website builder integrated with Adobe Creative Cloud and Behance for rapidly deploying responsive galleries and project pages. |
+| **[Behance (Adobe)](https://behance.net)** | Subsidiary of Adobe (Acquired for **~$150M**; Adobe: **$21.5B+ revenue**) | Behance Pro starts at **$9.99/mo** (billed annually) or **$13.99/mo** (monthly) | **Permanent free plan**: Unlimited public projects and media uploads; limited to standard public profile layout, standard analytics, and subject to 2%–5% freelance platform fees (no password-protected/unlisted projects). | Leading global creative showcase network for graphic designers, motion artists, 3D illustrators, and UI/UX teams to publish rich multimedia case studies. |
+| **[Squarespace](https://squarespace.com)** | **$1.0B+ annual revenue** / **$7.2B acquisition valuation** (Permira) | Basic plan starts at **$19/mo** (billed annually) or **$25/mo** (monthly) | **14-day free trial** (extendable by 7 days upon request; no credit card required). Trial sites remain private/unpublished with no live e-commerce processing or public search indexing. | All-in-one website building and portfolio hosting platform renowned for editorial templates, high-resolution visual galleries, and built-in e-commerce. |
+| **[Wix Studio](https://wix.com)** | **$1.76B+ annual revenue** / **~$6B–$12B market cap** (NASDAQ: WIX) | Studio Basic plan starts at **$19/mo** (billed annually) or **$27/mo** (monthly) | **Permanent free plan on standard Wix** (500MB storage, 500MB bandwidth, Wix ads, non-custom subdomain); **Wix Studio sites provide unlimited private staging/testing**, requiring a paid plan to remove branding and connect custom domains. | Advanced visual web creation platform offering scroll-driven animations, custom CSS/JS interactions, responsive breakpoints, and client handoff tools for agencies. |
+| **[Dribbble](https://dribbble.com)** | Subsidiary of Tiny Ltd. (TSXV: TINY; portfolio revenue driver, acquired at **~$7.8M valuation**) | Pro Lite starts at **$8/mo**; Pro Standard at **$16/mo** (billed annually) | **Permanent free plan**: Public portfolio shot uploads and profile presence; limited to standard layout, unboosted search ranking, standard shot scheduling, and subject to 4%–10% client project fees. | Design community and portfolio platform centered on visual design shots, micro-interactions, motion graphics loops, and creative freelance discovery. |
+| **[Format](https://format.com)** | Subsidiary of Zenfolio; estimated **$5M–$10M annual revenue** | Basic plan starts at **$7/mo** (billed annually) or **$14/mo** (monthly) | **14-day free trial** (no credit card required). Includes preview and layout editing; site remains unpublished and expires unless upgraded to a paid plan (no permanent free tier). | Online portfolio platform built specifically for photographers and visual artists featuring client proofing galleries, custom themes, and print stores. |
+| **[Cargo (Cargo.site)](https://cargo.site)** | Independent; estimated **<$5M annual revenue** (~25 employees) | Standard plan starts at **$14/mo** (billed annually) or **$19/mo** (monthly) | **Unlimited duration free trial** for site building and private staging (no credit card required; free for verified students/teachers); payment required only when connecting a custom domain or publishing outside private testing. | Avant-garde website builder favored by contemporary designers, studios, and visual artists for experimental layouts, custom typography, and interactive grids. |
+| **[Portfoliobox](https://portfoliobox.net)** | Bootstrapped; estimated **€10M–€50M annual revenue** (~13 employees) | Light plan starts at **$3.50/mo**; Personal at **$9.50/mo** (billed annually) | **Permanent free plan**: Capped at 25 pages, 30 images, 50 blog posts, 3 store products/services, 25 monthly AI requests, and requires a `portfoliobox.net` subdomain with platform branding (no external links/PDFs). | Browser-based portfolio builder enabling creatives to mix and match page-specific layouts, galleries, and custom domains without coding. |
+| **[Carbonmade](https://carbonmade.com)** | Independent; estimated **~$1M annual revenue** (~11 employees) | Beginner plan starts at **$9/mo** (billed annually) or **$12/mo** (monthly) | **Unlimited duration free trial** to build and design (no credit card required); site remains completely private/offline and cannot be shared publicly until upgrading to a paid subscription. | Visual-first online portfolio builder tailored for illustrators, animators, art directors, and creative directors with drag-and-drop project blocks. |
+| **[Fabrik](https://fabrik.io)** | Boutique startup; estimated **<$1M annual revenue** (~5–15 employees) | Personal plan starts at **£8.75/mo (~$11/mo)** (billed annually) | **14-day free trial** (no credit card required). Full access to themes and media upload previews; site goes offline after 14 days without an active paid subscription. | Intelligent portfolio platform designed for filmmakers, motion designers, and creative agencies with adaptive media layouts and showreel hosting. |
 
 
 
